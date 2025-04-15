@@ -9,4 +9,17 @@
     color: #fff;
 }
 
+.link-color{
+    color: #4CAF4F;
+    padding: 15px;
+}
+
+.text-translate{
+    transform: translateY(-70%);
+    background: #887f7f;
+    padding:30px;
+    width: 317px;
+    margin: auto;
+}
+
 
