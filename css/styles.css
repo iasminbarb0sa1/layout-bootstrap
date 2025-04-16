@@ -1,25 +1,108 @@
-.green-btn{
+.green-btn {
     background: #4CAF4F;
     color: #fff;
     font-weight: 400;
 }
 
-.green-btn:hover, .green-btn:focus{
+.green-btn:hover,
+.green-btn:focus {
     background: #3b853e;
     color: #fff;
 }
 
-.link-color{
+.link-color {
     color: #4CAF4F;
     padding: 15px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
 }
 
-.text-translate{
+.title-color{
+    color: #4CAF4F;
+}
+
+.text-translate {
     transform: translateY(-70%);
-    background: #887f7f;
-    padding:30px;
+    background: #F5F7FA;
+    padding: 30px;
     width: 317px;
     margin: auto;
+    border-radius: 10px;
+
+}
+
+.produtos img {
+    width: 100%;
+}
+
+.produtos a img {
+    width: auto;
+}
+
+.demo {
+    padding: 45px;
+}
+
+.card-footer {
+    background: #263238;
+
+}
+
+.card-footer img {
+    width: auto;
+    padding: 5px;
+}
+
+.card-footer p {
+    color: #fff;
+    margin-bottom: 0;
+    padding: 5px;
+}
+
+.card-footer .aplic {
+    padding: 16px;
+    margin-left: 10px;
 }
 
 
+.logo{
+    margin: 40px 0 30px;
+}
+
+input{
+    border-radius: 7px;
+    background: #717171;
+    border: none;
+}
+
+.form{
+    display: flex;
+    transform: translateX(-10);
+}
+
+.button{
+  border: 0;
+  background: transparent;
+}
+
+h6{
+  color: #fff;
+  margin: 40px 0 10px;
+}
+.text-translate a{
+    margin: 10px;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+.aplic{
+    margin: 3-px 0;
+}
+
+.aplic a{
+    margin: 5px;
+}
