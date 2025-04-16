@@ -18,7 +18,7 @@
     text-decoration: none;
 }
 
-.title-color{
+.title-color {
     color: #4CAF4F;
 }
 
@@ -56,8 +56,7 @@
 
 .card-footer p {
     color: #fff;
-    margin-bottom: 0;
-    padding: 5px;
+
 }
 
 .card-footer .aplic {
@@ -66,43 +65,87 @@
 }
 
 
-.logo{
+.logo {
     margin: 40px 0 30px;
 }
 
-input{
+input {
     border-radius: 7px;
-    background: #717171;
+    background:#48545a;
     border: none;
+    margin: 24px 0;
+    padding: 8px;
 }
 
-.form{
+.form {
     display: flex;
     transform: translateX(-10);
 }
 
-.button{
-  border: 0;
-  background: transparent;
+.button {
+    border: 0;
+    background: transparent;
 }
 
 h6{
   color: #fff;
   margin: 40px 0 10px;
 }
-.text-translate a{
-    margin: 10px;
-}
 
-ul{
+ul {
     list-style: none;
     padding-left: 0;
+        
 }
 
-.aplic{
-    margin: 3-px 0;
+ul li{
+    margin: 10px;
+
 }
 
-.aplic a{
+.aplic {
+    margin: 30px 0;
+}
+
+.aplic a {
     margin: 5px;
+}
+
+.container-footer a{
+    color: #fff;
+  
+}
+
+.placeholder{
+    color: #fff;
+    display: flex;
+
+}
+
+.translate-button{
+   background: transparent;
+    transform: translateX(-53px)
+}
+
+ span{
+    color: #3b853e;
+}
+
+.tesla{
+    background-color: #F5F7FA;
+}
+
+.big-numbers{
+    background-color: #F5F7FA;
+    padding: 80px;
+}
+
+.translate-button{
+    border: none;
+}
+
+.paragrafo-produtos{
+    width: 628px;
+    margin: auto;
+    text-align: center;
 }
